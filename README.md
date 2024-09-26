@@ -2,6 +2,9 @@
 
 Designed as a replacement for 26" cruiser bike front wheels.
 
+Day                        |  Night
+:-------------------------:|:-------------------------:
+![daypic](daypic.jpg)      | ![nightpic](nightpic.jpg)
 
 ## Components
 
