@@ -9,6 +9,7 @@ Day                        |  Night
 ## Components
 
 - All 3D prints made with PETG @ 100% infill
+- 1/2" acrylic sheet (24x24" square or 21" min if you can source other sizes)
 - Axle w/ 6000 bearing
    - Replace the cheap if buying a cheap axle. They will get shot within a few days of use.
 - 12v 2.7mm RGB strip
