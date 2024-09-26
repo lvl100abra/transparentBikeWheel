@@ -1,9 +1,13 @@
 # Transparent Bike Wheel
 
+Designed as a replacement for 26" cruiser bike front wheels.
+
+
 ## Components
 
 - All 3D prints made with PETG @ 100% infill
 - Axle w/ 6000 bearing
+   - Replace the cheap if buying a cheap axle. They will get shot within a few days of use.
 - 12v 2.7mm RGB strip
 - SEEED esp32c3
    - Running WLED
@@ -16,3 +20,4 @@
 - M4x18 sleeve nuts/bolts
 - M6x35 sleeve nuts/bolts
 - Angled schrader valve adapter
+- 26" bike tire and tube
