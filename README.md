@@ -6,6 +6,7 @@
 - Axle w/ 6000 bearing
 - 12v 2.7mm RGB strip
 - SEEED esp32c3
+   - Running WLED
 - 18650 lion's 3sXp (choose by run time need)
 - 6x6mm push button
 - 12x8mm on-off push button
